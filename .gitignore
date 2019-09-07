@@ -347,3 +347,13 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+Gaze/Scripts/webgazer/.gitattributes
+Gaze/Scripts/webgazer/build/
+Gaze/Scripts/webgazer/gnu-lgpl-v3.0.md
+Gaze/Scripts/webgazer/gpl.txt
+Gaze/Scripts/webgazer/gplv3.md
+Gaze/Scripts/webgazer/Gruntfile.js
+Gaze/Scripts/webgazer/LICENSE.md
+Gaze/Scripts/webgazer/package.json
+Gaze/Scripts/webgazer/README.md
+Gaze/Scripts/webgazer/trainingData/
